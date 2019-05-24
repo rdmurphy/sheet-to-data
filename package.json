@@ -1,0 +1,45 @@
+{
+  "name": "@newswire/sheet-to-data",
+  "version": "0.0.0",
+  "description": "Convert a Google Sheet directly into usable data using the Google Sheets API.",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "files": [
+    "index.js",
+    "types.d.ts"
+  ],
+  "scripts": {
+    "git-pre-commit": "precise-commits",
+    "release": "np",
+    "test": "mocha --timeout 5000 tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdmurphy/sheet-to-data.git"
+  },
+  "keywords": [
+    "googleapis",
+    "archieml",
+    "templating",
+    "googledocs"
+  ],
+  "author": "Ryan Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdmurphy/sheet-to-data/issues"
+  },
+  "homepage": "https://github.com/rdmurphy/sheet-to-data#readme",
+  "dependencies": {
+    "archieml": "^0.4.2",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "@newswire/prettier-config": "^1.0.0",
+    "@zeit/git-hooks": "^0.1.4",
+    "mocha": "^6.1.4",
+    "np": "^5.0.0",
+    "precise-commits": "^1.0.2",
+    "prettier": "^1.17.0"
+  },
+  "prettier": "@newswire/prettier-config"
+}
