@@ -12,7 +12,8 @@
 
 ## Key features
 
-- ⚙️ TKTK
+- ⚙️ Produces structure data from a Google Sheet **without the use of an XLSX export** like [`node-copytext`](https://github.com/rdmurphy/node-copytext), resulting in more consistent and quicker output
+- 🗄 All configuration lives **within the Google Sheet** instead of code, making it easier understand how data in a sheet is being processed at the source
 - 👩‍🔧 Does not expect any particular method of authenticating with Google — **use the authenticated Google API instance, Google Sheets client or [authentication method](https://github.com/googleapis/google-api-nodejs-client#authentication-and-authorization) you are already using**
 
 ## Installation
