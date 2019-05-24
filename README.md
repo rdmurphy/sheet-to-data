@@ -12,7 +12,7 @@
 
 ## Key features
 
-- ⚙️ Produces identical output to **[ArchieML's example Google Drive export method](https://github.com/newsdev/archieml-js/tree/master#using-with-google-documents)** (including support for converting links to `<a>` tags) without the use of an HTML parser
+- ⚙️ TKTK
 - 👩‍🔧 Does not expect any particular method of authenticating with Google — **use the authenticated Google API instance, Google Sheets client or [authentication method](https://github.com/googleapis/google-api-nodejs-client#authentication-and-authorization) you are already using**
 
 ## Installation
@@ -24,6 +24,10 @@ npm install --save-dev @newswire/sheet-to-data
 # or
 yarn add --dev @newswire/sheet-to-data
 ```
+
+## Preparing your spreadsheet
+
+TK TK
 
 ## Usage
 

@@ -19,9 +19,8 @@
   },
   "keywords": [
     "googleapis",
-    "archieml",
     "templating",
-    "googledocs"
+    "googlesheets"
   ],
   "author": "Ryan Murphy",
   "license": "MIT",
@@ -30,7 +29,6 @@
   },
   "homepage": "https://github.com/rdmurphy/sheet-to-data#readme",
   "dependencies": {
-    "archieml": "^0.4.2",
     "googleapis": "^39.2.0"
   },
   "devDependencies": {
