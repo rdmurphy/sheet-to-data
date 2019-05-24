@@ -117,7 +117,7 @@ Will become this:
 
 ### Skip flag (`:skip`)
 
-A sheet flagged with `:skip` is a signal to `@newswire/sheet-to-data` that it should **ignore** this sheet entirely and not attempt to process it.
+A sheet flagged with `:skip` is a signal to `@newswire/sheet-to-data` that it should **ignore** this sheet and not attempt to process it.
 
 The library will also ignore any sheets that have been **hidden** using the Google Sheet interface.
 
