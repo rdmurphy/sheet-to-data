@@ -1,6 +1,6 @@
 {
   "name": "@newswire/sheet-to-data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a Google Sheet directly into usable data using the Google Sheets API.",
   "main": "index.js",
   "types": "types.d.ts",
