@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/rdmurphy/sheet-to-data#readme",
   "dependencies": {
-    "googleapis": "^39.2.0"
+    "googleapis": "^40.0.0"
   },
   "devDependencies": {
     "@newswire/prettier-config": "^1.0.0",
