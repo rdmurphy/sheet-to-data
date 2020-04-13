@@ -37,7 +37,7 @@
     "@zeit/git-hooks": "^0.1.4",
     "doctoc": "^1.4.0",
     "mocha": "^7.0.0",
-    "np": "^5.0.0",
+    "np": "^6.2.1",
     "precise-commits": "^1.0.2",
     "prettier": "^1.17.0"
   },
