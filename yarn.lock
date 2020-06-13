@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@newswire/prettier-config@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@newswire/prettier-config/-/prettier-config-2.0.0.tgz#c2035d34a54143878e7b55120bb88e89e99be6d9"
-  integrity sha512-/zd9NIVEjg0/dag+rr2dTlyjM5LrPMFwM6frBeWl3VjHGR29NzokACELyu22dU5NsZtcT9OnZi8Ohk38dpt/WQ==
+"@newswire/prettier-config@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@newswire/prettier-config/-/prettier-config-3.0.0.tgz#3a35b0eec100f3a1f9ecc6c9cfbe07ca43671b48"
+  integrity sha512-JvM9xZL+9yZh/w9TdXW6hyXJvtH1TwazjcOg4je8cC3KeAseI48ex4lvmBB10bIw2NF0fFThRqesH4YSKMMUdg==
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
