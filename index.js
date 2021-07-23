@@ -7,7 +7,7 @@ const KEY_VALUE_TYPE = 'kv';
 const KEY_VALUE_RANGE = '!A:B';
 const SKIP_TYPE = 'skip';
 
-function zipObject(keys, values) {
+function zipObject(keys = [], values) {
   const result = {};
 
   keys.forEach((key, i) => {
@@ -21,7 +21,7 @@ function zipObject(keys, values) {
   return result;
 }
 
-function valuesToObject(rows) {
+function valuesToObject(rows = []) {
   const headers = rows[0];
 
   return rows.slice(1).map(values => zipObject(headers, values));
