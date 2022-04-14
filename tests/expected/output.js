@@ -40,4 +40,6 @@ module.exports = {
       column3: 'value9',
     },
   ],
+  tabular_empty: [],
+  keyvalue_empty: {},
 };
